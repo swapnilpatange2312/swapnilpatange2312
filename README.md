@@ -1,4 +1,4 @@
-### About me 👋
+### Hi 👋, I'm Swapnil 
 
 ### I'm **Swapnil Patange**, a data enthusiast passionate about transforming raw data into actionable insights.  
 I enjoy working on **data analysis, business problem solving, and visualization** to support smarter decision-making.  
