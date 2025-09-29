@@ -1,16 +1,21 @@
-## Hi there 👋
+### About me 👋
 
-<!--
-**swapnilpatange2312/swapnilpatange2312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm **Swapnil Patange**, a data enthusiast passionate about transforming raw data into actionable insights.  
+I enjoy working on **data analysis, business problem solving, and visualization** to support smarter decision-making.  
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working at **Wipro Limited, Pune** as a **Senior Associate**, where I analyze customer interactions, automate reports, and drive process improvements.  
+- 🌱 I’m currently learning **advanced SQL, Python for data analysis, and Power BI for business intelligence**.  
+- 👯 I’m looking to collaborate on **data analysis, visualization, and automation projects**.  
+- 💬 Ask me about **Excel, SQL, Python (pandas), Power BI, descriptive & inferential statistics, data modeling, and business insights**.  
+- 📊 My projects include **Northwind Database Insights (PostgreSQL), ShopNest Store Sales Forecasting (Power BI), and Data Cleaning & Manipulation (Python)**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏆 Achievements:  
+  - Led an **FTE optimization project** saving costs & improving efficiency.  
+  - Awarded **Best Employee of the Year (RNR Award)** at Wipro.  
+  - Served as **Magazine Secretary** during academics, leading and publishing the annual college magazine.  
+  
+- 📫 How to reach me: [www.linkedin.com/in/swapnil-patange-913baa252](#) | [swapnilpatange2312@gmail.com](#)  
+- ⚡ Fun fact: I love uncovering hidden patterns in data just like solving puzzles!  
+
+---
+✨ *Exploring the intersection of business sense & data science to deliver impactful solutions.* ✨
