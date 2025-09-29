@@ -18,4 +18,4 @@ I enjoy working on **data analysis, business problem solving, and visualization*
 - ⚡ Fun fact: I love uncovering hidden patterns in data just like solving puzzles!  
 
 ---
-✨ *Exploring the intersection of business sense & data science to deliver impactful solutions.* ✨
+✨ *Exploring the intersection of business sense & data analysis to deliver impactful solutions.* ✨
