@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Swapnil 
 
-### I'm **Swapnil Patange**, a data enthusiast passionate about transforming raw data into actionable insights.  
+### I'm a data enthusiast passionate about transforming raw data into actionable insights.  
 I enjoy working on **data analysis, business problem solving, and visualization** to support smarter decision-making.  
 
 - 🔭 I’m currently working at **Wipro Limited, Pune** as a **Senior Associate**, where I analyze customer interactions, automate reports, and drive process improvements.  
